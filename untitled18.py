@@ -8,11 +8,6 @@ Original file is located at
 """
 
 
-import streamlit as st
-import pandas as pd
-import numpy as np
-from scipy.optimize import linprog
-
 st.set_page_config(page_title="Smart Transportation Route Optimization", layout="wide")
 
 st.title("🚚 Smart Transportation Route Optimization")
